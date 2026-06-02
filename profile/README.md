@@ -26,15 +26,19 @@ Instead of 15 disconnected tools, institutions get **one calm, connected platfor
 
 ### Who is it for?
 
-| Stakeholder | What Classgrid does for them |
-|---|---|
-| 👨‍💻 **Institution Admins** | Command center for cross-branch analytics, system configuration, and RBAC control |
-| 💼 **Operations & Finance** | Automated fee ledgers, staff payroll processing, and daily logistical tracking |
-| 🏫 **Academic Leaders** | Compliance audit trails (NAAC/NBA), syllabus tracking, and faculty workload oversight |
-| 👨‍🏫 **Teachers & Faculty** | Digital classroom management, AI-assisted grading, automated attendance, and lesson planning |
-| 👨‍🎓 **Students** | Single unified portal for timetables, recorded lectures, study materials, exams, and results |
-| 👪 **Parents** | Real-time tracking of attendance, fee dues, academic progress, and direct communication |
-| 🏢 **Placements & HR** | Alumni network management, student placement tracking, and staff leave approvals |
+Classgrid is designed to support the exact workflows of modern educational institutions across different sectors and roles.
+
+#### By Industry
+- **🏫 Schools (K-12)**: Attendance, parent communication, homework, fees, and transport in one unified system.
+- **🎓 Colleges & Degree Programs**: Semester planning, credit tracking, departmental workflows, and campus administration.
+- **📚 Junior Colleges**: FYJC/SYJC stream management, board exam preparation, admissions, and compliance tracking.
+- **⚙️ Engineering & Technical**: Complex lab batches, internal assessments, NBA/NAAC compliance, and placements.
+- **🏆 Coaching Institutes**: High-velocity admissions, lead CRM, batch management, mock exams, and premium study material.
+
+#### By Role
+- **👨‍💻 For Admins**: Command center for cross-branch analytics, system configuration, fee collections, and RBAC control.
+- **👨‍🏫 For Teachers**: Digital classroom management, AI-assisted grading, automated attendance, and lesson planning.
+- **👨‍🎓 For Students**: Single unified portal for timetables, recorded lectures, study materials, exams, and results.
 
 ---
 
