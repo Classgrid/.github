@@ -24,6 +24,17 @@ Classgrid is a comprehensive education management platform designed to simplify 
 
 Instead of 15 disconnected tools, institutions get **one calm, connected platform** where admissions, academics, fees, exams, and communication all work together.
 
+### 📖 Our Story
+> The journey started during my first semester of engineering college when I experienced how difficult and outdated educational management systems still were in many institutions. Assignments were submitted completely offline, attendance tracking was unclear, and there was no proper all-in-one platform for students, teachers, and administration. Different departments worked separately without a connected system, making communication and management inefficient. Seeing these everyday problems inspired me to build a better digital solution for educational institutions.
+> 
+> What began as a simple idea to improve classroom management gradually evolved into a complete platform for schools, colleges, coaching institutes, and engineering campuses. The goal is to create a secure and modern ecosystem where attendance, assignments, communication, and administration can all be managed in one place through an AI-integrated ERP and CMS platform.
+> 
+> — **Nikhil Shinde**, Founder of Classgrid
+
+### 🎯 Mission & Vision
+- **Our Mission:** To help schools, colleges, coaching institutes, and engineering institutions transition from outdated manual systems to smart digital management through secure, AI-powered technology.
+- **Our Vision:** To make modern digital education management accessible to every institution in India, especially in Maharashtra, by creating intelligent, secure, and connected systems for the future of education.
+
 ### Who is it for?
 
 Classgrid is designed to support the exact workflows of modern educational institutions across different sectors and roles.
