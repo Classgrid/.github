@@ -26,14 +26,15 @@ Instead of 15 disconnected tools, institutions get **one calm, connected platfor
 
 ### Who is it for?
 
-| Audience | What Classgrid does for them |
+| Stakeholder | What Classgrid does for them |
 |---|---|
-| 🏫 **Schools (K-12)** | Fees, attendance, exams, and parent communication in one system |
-| 🎓 **Junior Colleges** | Department workflows, FYJC/SYJC management, and campus administration |
-| ⚙️ **Engineering Colleges** | Credit structures, placements, NAAC/NBA compliance, and accreditation tracking |
-| 📚 **Coaching Institutes** | Batches, test series (CET/JEE/NEET), enquiries, and student follow-up |
-| 👨‍🏫 **Educators** | Live classes, AI-assisted notes, grading, lesson planning, and assignments |
-| 👨‍🎓 **Students** | Single portal for timetables, lectures, study materials, exams, and results |
+| 👨‍💻 **Institution Admins** | Command center for cross-branch analytics, system configuration, and RBAC control |
+| 💼 **Operations & Finance** | Automated fee ledgers, staff payroll processing, and daily logistical tracking |
+| 🏫 **Academic Leaders** | Compliance audit trails (NAAC/NBA), syllabus tracking, and faculty workload oversight |
+| 👨‍🏫 **Teachers & Faculty** | Digital classroom management, AI-assisted grading, automated attendance, and lesson planning |
+| 👨‍🎓 **Students** | Single unified portal for timetables, recorded lectures, study materials, exams, and results |
+| 👪 **Parents** | Real-time tracking of attendance, fee dues, academic progress, and direct communication |
+| 🏢 **Placements & HR** | Alumni network management, student placement tracking, and staff leave approvals |
 
 ---
 
