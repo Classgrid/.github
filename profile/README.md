@@ -1,17 +1,17 @@
 <div align="center">
-  <a href="https://classgrid.in">
+  <a href="https://chat.classgrid.in">
     <img src="https://classgrid.in/Classgrid.png" alt="Classgrid" width="100" />
   </a>
   <h1>Classgrid</h1>
-  <p><strong>The Operating System for Modern Education</strong></p>
-  <p>Manage admissions, academics, operations, communication, and analytics — in one unified platform.</p>
+  <p><strong>Classgrid AI: an AI agent that can actually do the work.</strong></p>
+  <p>Ask, research, analyse your files, build inside your own code and automate your everyday work.</p>
 
   <br />
 
+  <a href="https://chat.classgrid.in"><img src="https://img.shields.io/badge/Open-Classgrid_AI-111111?style=for-the-badge" /></a>
   <a href="https://classgrid.in"><img src="https://img.shields.io/badge/Website-classgrid.in-0d9488?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://classgrid.in/changelog"><img src="https://img.shields.io/badge/Changelog-View_Updates-6366f1?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://classgrid1.statuspage.io"><img src="https://img.shields.io/badge/Status-All_Systems_Normal-10b981?style=for-the-badge" /></a>
-  <img src="https://img.shields.io/badge/License-Proprietary-ef4444?style=for-the-badge" />
 
   <br /><br />
 </div>
@@ -20,62 +20,49 @@
 
 ## What is Classgrid?
 
-Classgrid is a comprehensive education management platform designed to simplify and streamline the operations of **schools**, **colleges**, **junior colleges**, and **coaching institutes**. From admissions and student lifecycle management to fee collection, attendance tracking, academic planning, and communication — Classgrid brings every critical function into a single unified system.
+**Classgrid AI** lives at **[chat.classgrid.in](https://chat.classgrid.in)**. It is one place to talk to an AI agent that can actually do the work, build inside your own code, and work with the apps you already use.
 
-Instead of 15 disconnected tools, institutions get **one calm, connected platform** where admissions, academics, fees, exams, and communication all work together.
+| | What it is |
+|---|---|
+| **Agent Mode** | An AI agent that thinks, uses tools, runs code and shows every step live |
+| **Project Mode** | The agent working inside your GitHub repository, with a private browser code editor |
+| **WhatsApp** | Message or call the agent on WhatsApp; it takes the task and works on it in the background |
+| **Grids** | Real-time chat with people: direct messages, groups, polls and files |
 
-### 📖 Our Story
-> The journey started during my first semester of engineering college when I experienced how difficult and outdated educational management systems still were in many institutions. Assignments were submitted completely offline, attendance tracking was unclear, and there was no proper all-in-one platform for students, teachers, and administration. Different departments worked separately without a connected system, making communication and management inefficient. Seeing these everyday problems inspired me to build a better digital solution for educational institutions.
-> 
-> What began as a simple idea to improve classroom management gradually evolved into a complete platform for schools, colleges, coaching institutes, and engineering campuses. The goal is to create a secure and modern ecosystem where attendance, assignments, communication, and administration can all be managed in one place through an AI-integrated ERP and CMS platform.
-> 
-> — **Nikhil Shinde**, Founder of Classgrid
+### Agent Mode
 
-### 🎯 Mission & Vision
-- **Our Mission:** To help schools, colleges, coaching institutes, and engineering institutions transition from outdated manual systems to smart digital management through secure, AI-powered technology.
-- **Our Vision:** To make modern digital education management accessible to every institution in India, especially in Maharashtra, by creating intelligent, secure, and connected systems for the future of education.
+- **Research:** searches the web, opens pages and cites its sources
+- **Your files:** reads PDFs, Word, Excel, PowerPoint, CSV, images and audio; analyses spreadsheets and draws charts
+- **Runs real code:** Python, Node.js and terminal commands in a private sandbox, then checks its own output
+- **Makes things:** reports, PDFs, documents, images and websites
+- **Works with your apps:** Gmail, Google Drive, Calendar, Classroom, Notion, Slack, GitHub, Vercel and more
+- **Schedules:** daily briefs, weekly reports and reminders, by email and WhatsApp
+- **Long tasks:** keeps working in the background and reports back on WhatsApp
 
-### Who is it for?
+### Project Mode
 
-Classgrid is designed to support the exact workflows of modern educational institutions across different sectors and roles.
+- Connect GitHub, open a repo, and the agent explores it, edits files and runs commands, builds and dev servers
+- Every user gets their own private workspace and browser code editor; nothing is shared between users
+- Install the **[Classgrid GitHub app](https://github.com/apps/classgrid)** on your repos: the agent saves its work as **pull requests**, never straight to your main branch, and you review and merge
+- Review, reject or undo any change the agent made
+- Deploy to Vercel with your own Vercel account
 
-#### By Industry
-- **🏫 Schools (K-12)**: Attendance, parent communication, homework, fees, and transport in one unified system.
-- **🎓 Colleges & Degree Programs**: Semester planning, credit tracking, departmental workflows, and campus administration.
-- **📚 Junior Colleges**: FYJC/SYJC stream management, board exam preparation, admissions, and compliance tracking.
-- **⚙️ Engineering & Technical**: Complex lab batches, internal assessments, NBA/NAAC compliance, and placements.
-- **🏆 Coaching Institutes**: High-velocity admissions, lead CRM, batch management, mock exams, and premium study material.
+### Models
 
-#### By Role
-- **👨‍💻 For Admins**: Command center for cross-branch analytics, system configuration, fee collections, and RBAC control.
-- **👨‍🏫 For Teachers**: Digital classroom management, AI-assisted grading, automated attendance, and lesson planning.
-- **👨‍🎓 For Students**: Single unified portal for timetables, recorded lectures, study materials, exams, and results.
+Claude, DeepSeek, GLM, Kimi, Qwen, Mistral, NVIDIA Nemotron and more: pick the model for each chat.
 
 ---
 
-## Platform Modules
+## Open-source agent harness
 
-Classgrid ships with **30+ integrated modules** covering every campus workflow:
-
-**Academic** — Attendance (Biometric + GPS), Digital Classrooms, Automated Timetable, Academic Planning, Homework & Assignments, Student Notes, Teacher Planner, Subject & Course Management
-
-**Assessment** — Online Exam Platform (Anti-Cheat Proctoring), Examination Management, Interactive Quizzes, Grade Entry & SGPA/CGPA Engine, Internal Assessment, CET/JEE/NEET Exam Conduction, AI-Powered Viva, Test Series Management
-
-**Management** — Admission Engine, Fee Collection & Ledgers, Staff Leave & Payroll, Canteen Management, Digital Library, Alumni Network
-
-**Advanced** — AI Assistant, Advanced Analytics, NAAC/NBA Compliance Audit Trails, Digital Certificates (QR-verified), Holiday Management, Digital ID Cards, Events Management, Feedback System, Institution Website Builder
-
-**Dashboards** — Admission, Fee, Library, Student, Faculty, Organization, Canteen, Leave
+The **agent harness** is the engine behind Classgrid AI: the loop that lets the model think, call tools, run code in a sandbox, check its own work and stream every step live. We are building it in the open, under the **MIT License**, in [classgrid_platform_desktop](https://github.com/Classgrid/classgrid_platform_desktop).
 
 ---
 
 ## Technology
 
-### The Platform (Monorepo)
-> Real-time communication, biometric processing, and live video at scale.
-
 ![React](https://img.shields.io/badge/React_19-087EA4?style=flat-square&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -84,27 +71,13 @@ Classgrid ships with **30+ integrated modules** covering every campus workflow:
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
-
-**State & UI:** Zustand, React Query, Framer Motion, Radix UI, Recharts, shadcn/ui  
-**AI:** OpenAI, Anthropic Claude, Google Gemini, Groq, HuggingFace  
-**Live:** Agora (Video/Voice), WebRTC, BullMQ job queues  
-**Infra:** AWS EC2, PM2, Nginx reverse proxy  
-
-### The Marketing Engine
-> SEO-first, CMS-driven, edge-deployed marketing site.
-
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
-**Stack:** Next.js 15 (App Router + Turbopack), React 19, Tailwind CSS v4, Framer Motion  
-**CMS:** Sanity Studio with custom tools (Welcome Email, Blog, Changelog)  
-**Auth:** NextAuth with MongoDB adapter  
-**Analytics:** PostHog, Vercel Analytics, Vercel Speed Insights  
-**i18n:** English, Hindi, Marathi  
+**Agent:** streaming tool-use loop across many models, a Docker sandbox for code, Cloudflare R2 for files  
+**App:** React 19 + Vite on Vercel, Node.js + Express on AWS EC2 (PM2, Nginx)  
+**Website:** Next.js + Sanity CMS on Vercel  
 
 ---
 
@@ -112,13 +85,14 @@ Classgrid ships with **30+ integrated modules** covering every campus workflow:
 
 | Repository | Description |
 |---|---|
-| [classgrid_platoform-desktop-](https://github.com/Classgrid/classgrid_platoform-desktop-) | Core platform — React/Vite frontend + Express/Node.js backend |
-| [classgrid_marketting](https://github.com/Classgrid/classgrid_marketting) | Marketing engine — Next.js 15, Sanity CMS, SEO & growth |
+| [classgrid_platform_desktop](https://github.com/Classgrid/classgrid_platform_desktop) | Classgrid AI: the web app (chat.classgrid.in), API and the open-source agent harness |
+| [Classgrid_marketting](https://github.com/Classgrid/Classgrid_marketting) | The website (classgrid.in): Next.js, Sanity CMS |
 
 ---
 
 ## Links
 
+- 🤖 **Classgrid AI:** [chat.classgrid.in](https://chat.classgrid.in)
 - 🌐 **Website:** [classgrid.in](https://classgrid.in)
 - 📖 **Blog:** [classgrid.in/blog](https://classgrid.in/blog)
 - 📋 **Case Studies:** [classgrid.in/case-studies](https://classgrid.in/case-studies)
@@ -136,6 +110,6 @@ Classgrid ships with **30+ integrated modules** covering every campus workflow:
     <a href="https://facebook.com/classgrid">Facebook</a> · 
     <a href="mailto:support@classgrid.in">support@classgrid.in</a>
   </p>
-  <p><sub>Proprietary and Confidential · © 2026 Classgrid · All rights reserved</sub></p>
+  <p><sub>© 2026 Classgrid · All rights reserved</sub></p>
   <p><sub>Pimpri-Chinchwad, Maharashtra, India</sub></p>
 </div>
