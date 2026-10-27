@@ -11,7 +11,7 @@
   <a href="https://chat.classgrid.in"><img src="https://img.shields.io/badge/Open-Classgrid_AI-111111?style=for-the-badge" /></a>
   <a href="https://classgrid.in"><img src="https://img.shields.io/badge/Website-classgrid.in-0d9488?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://classgrid.in/changelog"><img src="https://img.shields.io/badge/Changelog-View_Updates-6366f1?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://classgrid1.statuspage.io"><img src="https://img.shields.io/badge/Status-All_Systems_Normal-10b981?style=for-the-badge" /></a>
+  <a href="https://status.classgrid.in"><img src="https://img.shields.io/badge/Status-All_Systems_Normal-10b981?style=for-the-badge" /></a>
 
   <br /><br />
 </div>
@@ -99,7 +99,7 @@ The **agent harness** is the engine behind Classgrid AI: the loop that lets the 
 - 📝 **Changelog:** [classgrid.in/changelog](https://classgrid.in/changelog)
 - 🆘 **Help Center:** [classgrid.in/help-center](https://classgrid.in/help-center)
 - 🔒 **Security:** [classgrid.in/security](https://classgrid.in/security)
-- ⬆️ **Status:** [classgrid1.statuspage.io](https://classgrid1.statuspage.io)
+- ⬆️ **Status:** [status.classgrid.in](https://status.classgrid.in)
 
 ---
 
